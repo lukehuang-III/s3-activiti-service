@@ -32,6 +32,8 @@ node_modules
 # Optional REPL history
 
 
+bower_components
+
 .node_repl_history
 *.csv
 *.dat

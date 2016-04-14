@@ -1,0 +1,19 @@
+{
+  "name": "s3-service",
+  "main": [
+    "./s3-service.js"
+  ],
+  "ignore": [],
+  "overrides": {},
+  "dependencies": {
+    "angular": "*",
+    "angular-resource": "*",
+    "angular-ui-router": "*",
+    "angular-schema-form": "*",
+    "angular-schema-form-datepicker": "*",
+    "superagent": "=0.21.0",
+    "json-refs": "~1.0.0",
+    "traverse": "~0.6.7"
+  }
+}
+
